@@ -19,7 +19,7 @@ If you See limited content, Probably Your are not an Intend user. Please Drop an
 | Infra | Programming Expertise | Databases |
 | :---: | :---: | :---: |
 | Linux | Git, GitLab | My Sql |
-| AWS, Azure(Learning) | Shell | Mongo(Learning) |
+| AWS, Azure(Learning) | Groovy, Shell | Mongo(Learning) |
 | Jenkins, Cloudbees | Python(learning) | Influx |
 | Ansible & Terraform | Go(Learning) | Liqubase |
 | Grafana, Logic Monitor | Type Script(Learning) |  |
