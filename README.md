@@ -1,10 +1,8 @@
 :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
 
- <h2 align="center"> A Warm Welcome to This Space </h2>
+ <h2 align="center"> You are watchi Samir Parhi's Profile </h2>
  
  **About Me:**
-
- **------------------------------------------Open For Consultation / Collaboration------------------------------------------**
 
 An infrastructure enthusiast with 6+ years of experience in various infrastructure tools, technologies & Design. Passionate about building highly available microservice systems for critical workloads. Establishing the trusted connection between various clusters and the Network. Designing the self-service models end-to-end CICD pipeline. Delivery of end-to-end DevOps projects based on Agile models. 
 
@@ -26,13 +24,13 @@ If you See limited content, Probably Your are not an Intend user. Please Drop an
 | Ansible & Terraform | Go(Learning) | Liqubase |
 | Grafana, Logic Monitor | Type Script(Learning) |  |
 |  CI/CD Scripted Pipeline creation | Maven, Gradle, NPM |  |
+|  Kubernetes, Istio, Docker, rkt |  |  |
 
 
 :telephone_receiver: **Connect**
 
 [LinkedIn](https://www.linkedin.com/in/samir-parhi/)
 
-[Gmail](samirparhi@gmail.com)
 
 **Thank you for Visiting** :blush: 
 
